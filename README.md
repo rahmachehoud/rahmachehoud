@@ -1,6 +1,6 @@
 <h1 align="center">
 
-   <strong> Hi there,i'm Rahma Chhoud welcome to my profile.</strong> 
+   <strong> Hi there,i'm Rahma Chehoud welcome to my profile.</strong> 
  
 
 
