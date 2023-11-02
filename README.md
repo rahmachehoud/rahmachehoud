@@ -3,7 +3,9 @@
    <strong> Hi there,i'm Rahma Chehoud welcome to my profile.</strong> 
  
 
-
+<p align="center">
+<a href="https://github.com/rahmachehoud?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rahmachehoud&theme=onestar&no-frame=true&column=3&row=2"  width="75%" alt="@rahmachehoud's trophy stats"/></a>
+</p>
 
 ## 💎 My Values
 
